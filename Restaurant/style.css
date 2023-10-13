@@ -96,8 +96,11 @@ nav {
   box-shadow: 5px 5px 5px rgba(1, 1, 1, 0.05);
 }
 .divider {
-  border: 1px solid #ccc;
+  border: 1px solid #090909;
   margin: 20px 0;
+}
+#line{
+  background-color: black;
 }
 
 /* Menu Section */
