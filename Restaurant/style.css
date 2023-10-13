@@ -19,8 +19,9 @@ button {
 button:hover {
   opacity: 0.8;
   transition: 0.2s ease-in-out;
+  background-color: green;
 }
-/* Navigation */
+/* Header Section */
 
 nav {
   box-shadow: 5px 5px 5px rgba(1, 1, 1, 0.05);
@@ -99,11 +100,8 @@ nav {
   border: 1px solid #090909;
   margin: 20px 0;
 }
-#line{
-  background-color: black;
-}
 
-/* Menu Section */
+/* Main Section */
 
 .menu {
   display: flex;
